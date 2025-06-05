@@ -7,7 +7,7 @@ import { IoLogoCss3 } from "react-icons/io5";
 import { FaBootstrap } from "react-icons/fa";
 import { TbBrandReactNative } from "react-icons/tb";
 
-export default function Myadvantage() {
+export default function Myaskills() {
   const techStats = [
     { name: "HTML5", logo: <SiHtml5 />},
     { name: "CSS3", logo: <IoLogoCss3 />},
